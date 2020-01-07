@@ -33,8 +33,6 @@
 |control+option+space|	Next input keyboard|
 |shift+command+left|	select entire line when at end|
 
-[Official Docs](https://www.tofugu.com/japanese/learn-katakana/)
-
 ### Manage Search Engines Custom shortcuts
 
 | command | result |
