@@ -56,6 +56,7 @@
 |:r|Reddit|
 |:w|Wiki|
 |:y|Youtube|
+|:s|Stack Overflow|
 
 ### Chromium Browswers
 
