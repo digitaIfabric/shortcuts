@@ -18,8 +18,10 @@
 |F10|Step Over|
 |Shift+F5|Stop|
 |option+command+T|Close Others|
-|command+\|Split Editor|
+|command+backslash |Split Editor|
 |end|Go to end of line|
+
+[VS Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 ### Mac
 
@@ -32,6 +34,8 @@
 |control+command+space|Emoji / Character viewer|
 |control+option+space|	Next input keyboard|
 |shift+command+left|	select entire line when at end|
+
+[MAC Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
 
 ### Manage Search Engines Custom shortcuts
 
@@ -62,6 +66,8 @@
 |esc (within dev tools)|	Toggle the console|
 |command+[|	Navigate back|
 |command+k|	Clear console|
+
+[Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/shortcuts)
 
 ### JIRA
 
