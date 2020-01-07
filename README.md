@@ -64,3 +64,23 @@
 |esc (within dev tools)|	Toggle the console|
 |command+[|	Navigate back|
 |command+k|	Clear console|
+
+### JIRA
+
+| command | result |
+|:---:|:---:|
+|/|	Quick Search|
+|j|	Next issue|
+|k|	Previous issue|
+|e|	Edit the issue|
+|m|	Comment on the issue|
+|a|	Assign the issue|
+|o|	Open the selected issue|
+|command+enter|	Submit a comment/description|
+|.|	Quick operations dropdown|
+|c|	Create issue|
+|l|	Edit issue labels|
+|y|	Default view order by|
+
+[JIRA Commands](https://jira.atlassian.com/secure/ViewKeyboardShortcuts!default.jspa)
+
