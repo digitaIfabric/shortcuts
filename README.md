@@ -20,6 +20,10 @@
 |option+command+T|Close Others|
 |command+backslash |Split Editor|
 |end|Go to end of line|
+|shift+option+F|Code formatting - Beautify|
+|command+P|Quick find file|
+|F12|Jump to Definition|
+|shift+F12|Find all references|
 
 [VS Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 
