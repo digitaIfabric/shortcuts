@@ -24,6 +24,7 @@
 |command+P|Quick find file|
 |F12|Jump to Definition|
 |shift+F12|Find all references|
+|command+shift+uparrow|collapse all folders in explorer|
 
 [VS Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
 
